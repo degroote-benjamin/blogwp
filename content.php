@@ -64,7 +64,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 articlealt" href="article.html">
                     <figure class="m-0">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="image gate keeper" class="col-12 px-0">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="image gate keeper" class="col-12 px-0">
                         <p class="alt text-center red"></p>
                         <figcaption>
                             <h2>GateKeeper</h2>
@@ -78,7 +78,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 articlealt" href="article.html">
                     <figure class="m-0">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/img/mimix.jpg" alt="image d'un smartphone" class="col-12 px-0">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/mimix.jpg" alt="image d'un smartphone" class="col-12 px-0">
                         <p class="alt text-center red"></p>
                         <figcaption>
                             <h2>Xiaomi Mi Mix </h2>
@@ -92,7 +92,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 articlealt">
                     <figure class="m-0">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="gatekeeper" class="col-12 px-0">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="gatekeeper" class="col-12 px-0">
                         <p class="alt text-center red"></p>
                         <figcaption>
                             <h2>GateKeeper</h2>
@@ -111,7 +111,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 articlealt" href="article.html">
                     <figure class="m-0">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="image gate keeper" class="col-12 px-0">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="image gate keeper" class="col-12 px-0">
                         <p class="alt text-center red"></p>
                         <figcaption>
                             <h2>GateKeeper</h2>
@@ -130,7 +130,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 articlealt" href="article.html">
                     <figure class="m-0">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="image gate keeper" class="col-12 px-0">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/gatekeeper.jpg" alt="image gate keeper" class="col-12 px-0">
                         <p class="alt text-center red"></p>
                         <figcaption>
                             <h2>GateKeeper</h2>
@@ -144,7 +144,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 articlealt" href="article.html">
                     <figure class="m-0">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/img/mimix.jpg" alt="image d'un smartphone" class="col-12 px-0">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/mimix.jpg" alt="image d'un smartphone" class="col-12 px-0">
                         <p class="alt text-center red"></p>
                         <figcaption>
                             <h2>Xiaomi Mi Mix </h2>
